@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace kiemtraketthucmon2
+namespace kiemtraketthucmon
 {
     class cho : Dongvat
     {
