@@ -9,4 +9,5 @@ __Blood 6. Chỉnh sửa phương thức keu() của lớp Mèo và Chó__
 * List --> Lớp Mèo : Hiển thị Chuỗi :" Meo Meo. tôi là mèo long màu " + MauLong 
 * List --> Lớp Chó : Hiện thị chuỗi : "Gâu Gâu . tôi là chó long màu " + MauLong
 __Blood 7. Cập nhật lên Github , Cập nhật Readme__.
-
+__Blood 8. Thêm 2 button vào from ứng dụng__
+__Blood 9. cập nhật github Readme__.
